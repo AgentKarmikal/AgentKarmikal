@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgentKarmikal
-- 👀 I’m interested in ... cyber-security, penTesting, python, and networking
+- 👀 I’m interested in ... cyber-security, penTesting, python, and networking. I also love all things electronics (Going back to school for EE)
 - 🌱 I’m currently learning ... python and penTesting
-- 💞️ I’m looking to collaborate on ... penTesting and cybersecurity projects
+- 💞️ I’m looking to collaborate on ... python automation and cybersecurity projects
 - 📫 How to reach me ... 
 
 <!---
